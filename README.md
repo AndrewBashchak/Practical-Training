@@ -1,2 +1,1 @@
-# Practical-Training
-Tasks which I completed for my practical training
+# Andrew Bashchak, student of KDU, group: SEs-24-2
